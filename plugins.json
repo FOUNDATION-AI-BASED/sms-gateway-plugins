@@ -1,1 +1,24 @@
-
+{
+  "pluginId": "backups",
+  "downloadUrl": "https://github.com/user/plugin/archive/v1.0.0.zip",
+  "name": "Message Logger",
+  "version": "1.0.0"
+},
+{
+  "pluginId": "webhooks",
+  "downloadUrl": "https://github.com/user/plugin/archive/v1.0.0.zip",
+  "name": "Message Logger",
+  "version": "1.0.0"
+},
+{
+  "pluginId": "ollama",
+  "downloadUrl": "https://github.com/user/plugin/archive/v1.0.0.zip",
+  "name": "Message Logger",
+  "version": "1.0.0"
+},
+{
+  "pluginId": "performance",
+  "downloadUrl": "https://github.com/user/plugin/archive/v1.0.0.zip",
+  "name": "Message Logger",
+  "version": "1.0.0"
+}
